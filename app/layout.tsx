@@ -8,8 +8,8 @@ import Head from "next/head";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "RAG App",
-  description: "Empower Your Organizations Document Intelligence with RAG",
+  title: "Battlefield Intelligence with RAG",
+  description: "View and and analyze battlefield documents, video, and 3D scans",
 };
 
 export default function RootLayout({

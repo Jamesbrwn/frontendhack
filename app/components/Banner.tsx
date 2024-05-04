@@ -15,10 +15,10 @@ const Banner = () => {
         size="7"
         // className="bg-gradient-to-r via-gray-600 to-blue-800 bg-clip-text text-transparent"
       >
-        Empower Your Organizations Document Intelligence with RAG
+        Battlefield Intelligence with RAG
       </Heading>
       <Text className="font-semibold">
-        Upload your PDF and Talk to them with AI!
+        Upload and analyze battlefield documents, video, and 3D scans
       </Text>
     </>
   );
